@@ -1,12 +1,17 @@
 <img src="https://github.com/RonaldoMurakamiK/RonaldoMurakamiK/blob/main/undraw_code_thinking_1jeh.svg" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Trainee web developer in love with mobile development and ui design.<br>
-  Math student at Universidade Estadual de Maringá (UEM).
+  Trainee <strong>Web developer</strong> in love with <strong>Mobile development</strong> and <strong>UI Design</strong>.<br>
+  <strong>Math student</strong> at Universidade Estadual de Maringá (UEM).
 </p>
 
 <p align="left">
-  Skills: <strong>Web (HTML, CSS, Bootstrap, Less, Angular, React, Wordpress, Typescript, JavaScript, PHP, C++, C#)<br>Mobile (React Native - JavaScript, Flutter - Dart)</strong>
+  Skills Web: <strong>HTML, CSS, Bootstrap, Less, Angular, React, Wordpress, Typescript, JavaScript, PHP, C++, C#)</strong><br>
+  Skills Mobile: <strong>Mobile (React Native - JavaScript, Flutter - Dart)</strong>
+</p>
+
+<p align="left">
+  Learning: <strong>Julia and Flutter</strong>
 </p>
 
 <p align="left">
