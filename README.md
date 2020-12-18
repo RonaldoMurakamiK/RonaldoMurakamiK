@@ -1,4 +1,4 @@
-<img src="https://github.com/RonaldoMurakamiK/RonaldoMurakamiK/blob/main/undraw_code_thinking_1jeh.svg" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/RonaldoMurakamiK/RonaldoMurakamiK/blob/main/undraw_real-time_sync_o57k.svg" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Trainee <strong>Web developer</strong> in love with <strong>Mobile development</strong> and <strong>UI Design</strong>.<br>
