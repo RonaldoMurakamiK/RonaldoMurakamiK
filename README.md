@@ -15,9 +15,9 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-286fbf?style=flat-square&labelColor=286fbf&logo=facebook&logoColor=white&link=https://www.facebook.com/ronaldo.murakami.96/"/>
+  <a href="https://www.facebook.com/ronaldo.murakami.96/" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-286fbf?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/ronaldo.murakami.96/"/></a>
 
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/robaldomurakami/"/></a>
+  <a href="https://www.instagram.com/robaldomurakami/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/robaldomurakami/"/></a></a>
 </p>  
