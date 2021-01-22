@@ -6,12 +6,12 @@
 </p>
 
 <p align="left">
-  Skills Web: <strong>HTML, CSS, Bootstrap, Less, Angular, React, Wordpress, Typescript, JavaScript, PHP, C++, C#)</strong><br>
+  Skills Web: <strong>HTML, CSS, JavaScript, Bootstrap, Wordpress, Less, Angular, Typescript, PHP)</strong><br>
   Skills Mobile: <strong>Mobile (React Native - JavaScript, Flutter - Dart)</strong>
 </p>
 
 <p align="left">
-  Learning: <strong>Julia and Flutter</strong>
+  Learning: <strong>Julia</strong> and <strong>Flutter</strong>
 </p>
 
 <p align="left">
